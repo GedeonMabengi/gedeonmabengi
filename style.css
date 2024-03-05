@@ -1,0 +1,10 @@
+h1 {
+  background-clip: text;
+  -webkit-background-clip: text;
+  /* color: transparent; */
+  /* -webkit-text-fill-color: transparent; */
+  background-image: linear-gradient(140deg,#ff0a6c, #2d27ff);
+  color: transparent;
+  width: max-content;
+  margin: 0 auto;
+}
